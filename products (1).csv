@@ -1,0 +1,181 @@
+Product_ID,Product_Name,Category,Brand,Size,Color,Price,Cost_Price
+PRD0001,Saree,Women's Wear,Nike,XL,Pink,3999,1867
+PRD0002,Jeans,Men's Wear,Nike,XL,Red,3999,1851
+PRD0003,Kids T-Shirt,Kids Wear,Nike,L,Green,499,210
+PRD0004,Handbag,Accessories,Libas,XXL,Yellow,4999,2536
+PRD0005,Kids Dress,Kids Wear,DressBerry,L,Beige,4999,3574
+PRD0006,Saree,Women's Wear,Adidas,XL,Yellow,699,307
+PRD0007,Sunglasses,Accessories,Libas,XS,Brown,499,224
+PRD0008,Shorts,Kids Wear,Adidas,L,Grey,4999,2151
+PRD0009,Sunglasses,Accessories,Nike,L,Blue,499,273
+PRD0010,Formal Trousers,Men's Wear,HRX,S,Blue,1299,700
+PRD0011,Backpack,Accessories,WROGN,XXL,Grey,1499,1009
+PRD0012,Flats,Footwear,Libas,XS,Yellow,1999,1017
+PRD0013,Casual Shirt,Men's Wear,WROGN,XS,Grey,1499,632
+PRD0014,Sneakers,Footwear,DressBerry,M,Black,1999,1203
+PRD0015,Watch,Accessories,Adidas,XS,Grey,2499,1387
+PRD0016,Kurta,Men's Wear,HERE&NOW,M,Grey,1999,1004
+PRD0017,Top,Women's Wear,DressBerry,XS,Pink,999,588
+PRD0018,Formal Shoes,Footwear,Libas,S,White,2499,1073
+PRD0019,School Wear,Kids Wear,HERE&NOW,Free Size,Beige,899,488
+PRD0020,Sports Shoes,Footwear,DressBerry,XXL,Blue,1499,910
+PRD0021,Saree,Women's Wear,Anouk,XXL,Brown,1299,593
+PRD0022,Leggings,Women's Wear,Roadster,XS,Yellow,399,265
+PRD0023,Formal Shoes,Footwear,HERE&NOW,XS,White,2499,1252
+PRD0024,Jeans,Men's Wear,Nike,XS,Red,1299,687
+PRD0025,Sunglasses,Accessories,Adidas,S,White,4999,2551
+PRD0026,Kurti,Women's Wear,Roadster,S,Blue,3999,2173
+PRD0027,Casual Shirt,Men's Wear,DressBerry,XXL,Blue,399,231
+PRD0028,Leggings,Women's Wear,Anouk,Free Size,Grey,1499,736
+PRD0029,Flats,Footwear,HRX,XXL,Green,899,522
+PRD0030,Casual Shirt,Men's Wear,Puma,XL,White,2499,1493
+PRD0031,Shorts,Kids Wear,DressBerry,Free Size,White,2999,1573
+PRD0032,Casual Shirt,Men's Wear,Nike,Free Size,Blue,399,268
+PRD0033,Kids T-Shirt,Kids Wear,HRX,Free Size,Brown,2499,1243
+PRD0034,Kids Dress,Kids Wear,Anouk,L,Black,2499,1231
+PRD0035,Formal Trousers,Men's Wear,HERE&NOW,M,Beige,999,521
+PRD0036,Top,Women's Wear,Nike,XXL,Grey,899,617
+PRD0037,Sneakers,Footwear,Anouk,XXL,Grey,1999,1203
+PRD0038,Kurta,Men's Wear,DressBerry,XS,Blue,2499,1170
+PRD0039,Leggings,Women's Wear,WROGN,L,Black,699,297
+PRD0040,Jeans,Women's Wear,Nike,Free Size,White,1999,1234
+PRD0041,Jeans,Women's Wear,DressBerry,XXL,Beige,3999,1980
+PRD0042,Kids Dress,Kids Wear,Puma,M,Blue,699,367
+PRD0043,Shorts,Kids Wear,HERE&NOW,L,White,399,236
+PRD0044,Sneakers,Footwear,HERE&NOW,XXL,White,4999,3221
+PRD0045,Wallet,Accessories,HERE&NOW,Free Size,White,399,285
+PRD0046,Jacket,Men's Wear,Adidas,XS,White,999,470
+PRD0047,Ethnic Set,Women's Wear,Libas,M,Grey,1299,573
+PRD0048,Kurta,Men's Wear,HRX,Free Size,Brown,1499,1024
+PRD0049,Sneakers,Footwear,Puma,Free Size,Brown,2499,1656
+PRD0050,Sneakers,Footwear,Libas,Free Size,Yellow,1999,1216
+PRD0051,Kurta,Men's Wear,DressBerry,Free Size,Blue,4999,2241
+PRD0052,Kids Dress,Kids Wear,WROGN,S,Green,699,417
+PRD0053,Formal Trousers,Men's Wear,Puma,Free Size,Green,2999,1743
+PRD0054,Saree,Women's Wear,HERE&NOW,Free Size,Red,4999,3362
+PRD0055,Kurta,Men's Wear,Adidas,L,Blue,699,402
+PRD0056,Kurti,Women's Wear,DressBerry,L,Brown,1999,887
+PRD0057,Jacket,Men's Wear,WROGN,L,Pink,1499,656
+PRD0058,Watch,Accessories,WROGN,XL,Pink,1299,794
+PRD0059,Ethnic Set,Women's Wear,Puma,XL,Beige,999,434
+PRD0060,Top,Women's Wear,Puma,XS,Pink,999,448
+PRD0061,Leggings,Women's Wear,HERE&NOW,L,Brown,899,583
+PRD0062,Sports Shoes,Footwear,HERE&NOW,Free Size,Brown,399,241
+PRD0063,Kids Dress,Kids Wear,Libas,S,White,899,513
+PRD0064,Flats,Footwear,Nike,Free Size,Blue,899,385
+PRD0065,Shorts,Kids Wear,Nike,L,Blue,899,532
+PRD0066,Jacket,Men's Wear,HERE&NOW,L,White,699,466
+PRD0067,Shorts,Kids Wear,HRX,XL,White,4999,3027
+PRD0068,Dress,Women's Wear,Libas,S,Brown,1999,1044
+PRD0069,Ethnic Set,Women's Wear,Libas,XL,Blue,899,547
+PRD0070,Sports Shoes,Footwear,HERE&NOW,XL,Yellow,2499,1460
+PRD0071,Top,Women's Wear,DressBerry,L,Blue,399,198
+PRD0072,Shorts,Kids Wear,Roadster,Free Size,Beige,999,646
+PRD0073,Casual Shirt,Men's Wear,Anouk,XS,Green,399,203
+PRD0074,Formal Trousers,Men's Wear,WROGN,M,Yellow,4999,2578
+PRD0075,Sunglasses,Accessories,Libas,Free Size,Pink,699,313
+PRD0076,School Wear,Kids Wear,HERE&NOW,L,Pink,3999,2629
+PRD0077,Flats,Footwear,Libas,S,Beige,999,718
+PRD0078,Jeans,Men's Wear,HRX,Free Size,Yellow,1499,972
+PRD0079,Kids T-Shirt,Kids Wear,Adidas,XXL,Grey,1299,574
+PRD0080,Sandals,Footwear,HERE&NOW,XL,Pink,499,244
+PRD0081,Kids T-Shirt,Kids Wear,Puma,L,Black,399,281
+PRD0082,Sunglasses,Accessories,Puma,L,White,899,587
+PRD0083,Top,Women's Wear,Libas,M,Beige,2999,1650
+PRD0084,Dress,Women's Wear,Libas,L,Grey,4999,2276
+PRD0085,Kids T-Shirt,Kids Wear,WROGN,Free Size,Black,699,311
+PRD0086,Saree,Women's Wear,Libas,L,Pink,1299,562
+PRD0087,Sunglasses,Accessories,Anouk,M,White,999,710
+PRD0088,Kurti,Women's Wear,Roadster,XL,Green,399,238
+PRD0089,Handbag,Accessories,Libas,XXL,Grey,3999,2424
+PRD0090,Jeans,Women's Wear,Libas,S,Blue,899,449
+PRD0091,Jeans,Women's Wear,Puma,Free Size,Black,3999,2015
+PRD0092,Saree,Women's Wear,DressBerry,XL,Green,4999,3524
+PRD0093,Sneakers,Footwear,Libas,XXL,Blue,499,292
+PRD0094,Casual Shirt,Men's Wear,Roadster,S,Black,1299,692
+PRD0095,Sneakers,Footwear,Roadster,XL,Black,1299,728
+PRD0096,Kurti,Women's Wear,Adidas,XXL,Black,999,580
+PRD0097,Formal Shoes,Footwear,Adidas,XL,Pink,999,703
+PRD0098,Sneakers,Footwear,WROGN,XXL,Black,999,706
+PRD0099,Kids Dress,Kids Wear,Roadster,S,Grey,399,170
+PRD0100,Leggings,Women's Wear,DressBerry,M,Blue,1299,878
+PRD0101,Saree,Women's Wear,WROGN,XS,Beige,3999,2586
+PRD0102,Kids Dress,Kids Wear,DressBerry,Free Size,Green,3999,2420
+PRD0103,Watch,Accessories,HRX,XXL,White,499,345
+PRD0104,Leggings,Women's Wear,Nike,Free Size,Beige,399,230
+PRD0105,Kids T-Shirt,Kids Wear,Libas,XS,Brown,899,585
+PRD0106,Jacket,Men's Wear,Puma,XL,Blue,499,259
+PRD0107,School Wear,Kids Wear,DressBerry,Free Size,Yellow,3999,2232
+PRD0108,Shorts,Kids Wear,Nike,L,Grey,1299,817
+PRD0109,Top,Women's Wear,HRX,XL,Brown,3999,1948
+PRD0110,Sandals,Footwear,Libas,XL,Green,4999,2233
+PRD0111,Casual Shirt,Men's Wear,Libas,XXL,Blue,4999,2293
+PRD0112,Top,Women's Wear,Libas,XS,Yellow,2499,1565
+PRD0113,Top,Women's Wear,Libas,L,Black,399,178
+PRD0114,School Wear,Kids Wear,Puma,XXL,Brown,1999,1295
+PRD0115,Dress,Women's Wear,Nike,M,Beige,2999,1878
+PRD0116,Formal Shoes,Footwear,HRX,S,Green,4999,2898
+PRD0117,Casual Shirt,Men's Wear,HERE&NOW,L,Brown,1499,883
+PRD0118,Sandals,Footwear,WROGN,XS,Red,4999,2810
+PRD0119,Kurti,Women's Wear,Anouk,Free Size,Green,499,297
+PRD0120,Sneakers,Footwear,DressBerry,S,Yellow,4999,2606
+PRD0121,Watch,Accessories,Nike,M,Green,3999,2406
+PRD0122,Kurta,Men's Wear,Puma,XXL,Beige,999,566
+PRD0123,Sneakers,Footwear,DressBerry,M,Grey,1499,943
+PRD0124,Backpack,Accessories,Anouk,L,Red,499,210
+PRD0125,Backpack,Accessories,Puma,M,Yellow,1999,1270
+PRD0126,Dress,Women's Wear,HERE&NOW,XXL,Brown,699,361
+PRD0127,Kurti,Women's Wear,Roadster,L,Black,899,542
+PRD0128,Saree,Women's Wear,Anouk,XL,White,3999,1742
+PRD0129,Dress,Women's Wear,Adidas,S,Blue,999,516
+PRD0130,Sneakers,Footwear,WROGN,XS,Yellow,999,598
+PRD0131,Ethnic Set,Women's Wear,Roadster,XL,Blue,699,320
+PRD0132,Sneakers,Footwear,DressBerry,M,Black,499,321
+PRD0133,School Wear,Kids Wear,WROGN,XL,White,1999,938
+PRD0134,Formal Shoes,Footwear,Anouk,XS,Brown,2999,1613
+PRD0135,Formal Shoes,Footwear,Roadster,Free Size,Black,1299,636
+PRD0136,Watch,Accessories,Nike,M,Beige,999,455
+PRD0137,Belt,Accessories,Libas,L,Black,1999,1159
+PRD0138,Sunglasses,Accessories,WROGN,XS,Pink,1299,849
+PRD0139,Formal Trousers,Men's Wear,HRX,S,Pink,1299,887
+PRD0140,Leggings,Women's Wear,Nike,L,Grey,899,513
+PRD0141,Saree,Women's Wear,HRX,M,White,899,565
+PRD0142,Top,Women's Wear,HERE&NOW,L,Brown,3999,2091
+PRD0143,T-Shirt,Men's Wear,Libas,XL,Grey,3999,2286
+PRD0144,Shorts,Kids Wear,Anouk,L,Pink,1999,1393
+PRD0145,Sandals,Footwear,Libas,XS,Green,399,177
+PRD0146,Casual Shirt,Men's Wear,Adidas,XS,Pink,1299,929
+PRD0147,Sneakers,Footwear,Puma,Free Size,White,399,238
+PRD0148,Kurti,Women's Wear,WROGN,S,Red,999,656
+PRD0149,Shorts,Kids Wear,WROGN,S,Green,899,471
+PRD0150,Dress,Women's Wear,Roadster,M,White,3999,1977
+PRD0151,School Wear,Kids Wear,HERE&NOW,XS,Black,1299,850
+PRD0152,Dress,Women's Wear,HRX,XL,Black,4999,2367
+PRD0153,Handbag,Accessories,Puma,XXL,Grey,899,513
+PRD0154,Kids T-Shirt,Kids Wear,DressBerry,M,Grey,1499,1033
+PRD0155,Jacket,Men's Wear,Nike,M,Blue,399,203
+PRD0156,Sandals,Footwear,Puma,L,Black,499,270
+PRD0157,Ethnic Set,Women's Wear,Roadster,XL,Beige,899,633
+PRD0158,Dress,Women's Wear,HRX,L,Black,699,299
+PRD0159,T-Shirt,Men's Wear,Nike,XS,Yellow,1499,729
+PRD0160,Jeans,Men's Wear,Puma,XS,Pink,1999,947
+PRD0161,Shorts,Kids Wear,HRX,M,Grey,1999,1273
+PRD0162,Formal Shoes,Footwear,Anouk,XL,Green,899,433
+PRD0163,Dress,Women's Wear,Libas,Free Size,Black,1499,723
+PRD0164,Jacket,Men's Wear,Anouk,XL,Blue,699,481
+PRD0165,Sports Shoes,Footwear,Libas,Free Size,Blue,3999,2115
+PRD0166,Formal Trousers,Men's Wear,HERE&NOW,XXL,Yellow,999,550
+PRD0167,Jeans,Women's Wear,Puma,L,Grey,2999,1362
+PRD0168,Top,Women's Wear,Roadster,S,White,1499,860
+PRD0169,Sandals,Footwear,Adidas,XS,Green,2499,1533
+PRD0170,Dress,Women's Wear,HRX,Free Size,Pink,2999,1276
+PRD0171,Wallet,Accessories,Anouk,XS,Green,2999,1320
+PRD0172,Leggings,Women's Wear,Adidas,XL,Brown,2999,1386
+PRD0173,Ethnic Set,Women's Wear,Nike,S,Yellow,1299,738
+PRD0174,Kids T-Shirt,Kids Wear,HERE&NOW,L,Brown,2999,1639
+PRD0175,Leggings,Women's Wear,Roadster,M,Pink,3999,2403
+PRD0176,Jacket,Men's Wear,Nike,M,Red,3999,2542
+PRD0177,Top,Women's Wear,HRX,Free Size,Grey,1299,911
+PRD0178,Sneakers,Footwear,Anouk,Free Size,Red,2999,1405
+PRD0179,Sneakers,Footwear,HRX,XS,Brown,3999,2249
+PRD0180,Kurti,Women's Wear,WROGN,XL,Grey,399,220
